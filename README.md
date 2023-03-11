@@ -1,0 +1,1 @@
+# mckl-CPCxMath-competition-solutions
